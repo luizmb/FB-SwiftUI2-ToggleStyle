@@ -1,5 +1,11 @@
 # ToggleStyle issue (Feedback Assistant)
 
+## Important:
+FB8543755
+Fixed on Xcode 12.2 beta4 and Xcode 12.3 beta1 (on their respective default simulators).
+
+---
+
 ## Steps to reproduce:
 - Run the project in any simulator using iOS 14 beta 6
 - Change all four toggles
